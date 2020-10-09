@@ -1,3 +1,5 @@
-# Tableau Web Data Connector to access Real time Air Quality Index Data using API provided by Ministry of Environment and Forests , Central Pollution Control Board in data.gov.in
+# Tableau Web Data Connector Real time Air Quality Index Data
 
-[To under how to Create Tableau WDC](https://tableau.github.io/webdataconnector/#)
+Tableau Web Data Connector to access Real time Air Quality Index Date from API provided by Ministry of Environment and Forests , Central Pollution Control Board on Data.gov.in
+
+[To understand how to Create Tableau WDC visit](https://tableau.github.io/webdataconnector/#)
