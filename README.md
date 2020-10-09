@@ -3,4 +3,4 @@ Tableau Web Data Connector to access Real time Air Quality Index Date from API p
 
 To understand how to create Tableau WDC visit: https://tableau.github.io/webdataconnector
 
-to Understand more about the API : [Data API](https://data.gov.in/resources/real-time-air-quality-index-various-locations/api)
+To Understand more about the API : [Data API](https://data.gov.in/resources/real-time-air-quality-index-various-locations/api)
