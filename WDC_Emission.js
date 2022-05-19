@@ -49,7 +49,7 @@
     tableau.registerConnector(myConnector);
     $(document).ready(function () {
         $("#submitButton").click(function () {
-            tableau.connectionName = "WDC Air Quaity Index";
+            tableau.connectionName = "WDC Gobal Mean Temperature";
             tableau.submit();
         });
     });
