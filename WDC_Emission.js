@@ -6,16 +6,16 @@
             id: "time",
             dataType: tableau.dataTypeEnum.string
         },{
-            id: "station",
+            id: "MeanTemp",
             dataType: tableau.dataTypeEnum.string
         },{
-            id: "land",
+            id: "LandTemp",
             dataType: tableau.dataTypeEnum.string
         }];
     
         var tableSchema = {
-            id: "AirQualityIndex",
-            alias: "Real time Air Quality Index from various location",
+            id: "GBM Temp",
+            alias: "Real time Gobal Mean Temperature",
             columns: cols
         };
     
@@ -35,8 +35,8 @@
             for (var i = 0, len = feat.length; i < len; i++) {
                 tableData.push({
                     "time": feat[i].time,
-                    "station": feat[i].station,
-                    "land": feat[i].land
+                    "MeanTemp": feat[i].station,
+                    "LandTemp": feat[i].land
                 });
                 
             }
