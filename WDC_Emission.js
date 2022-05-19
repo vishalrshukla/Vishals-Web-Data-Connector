@@ -14,7 +14,7 @@
         }];
     
         var tableSchema = {
-            id: "GBM Temp",
+            id: "GBMTemp",
             alias: "Real time Gobal Mean Temperature",
             columns: cols
         };
