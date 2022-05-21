@@ -26,8 +26,9 @@
     //};
 
     myConnector.getData = function(table, doneCallback) {
+        alert("Hi")
         //$.getJSON("https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69?api-key=579b464db66ec23bdd0000019291e92e6c6b468c60143da10e24a86d&format=json&offset=0&limit=1500", function(resp) {
-            $.getJSON("https://global-warming.org/api/temperature-api", function(resp) {  
+          $.getJSON("https://global-warming.org/api/temperature-api", function(resp) {  
             var feat = resp.records,
                 tableData = [];
                 tableau.log(feat.length)
