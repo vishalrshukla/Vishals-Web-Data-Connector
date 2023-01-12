@@ -1,4 +1,3 @@
-# Tableau Web Data Connector 
 ## Real time Air Quality Index
 Tableau Web Data Connector to access [Real-time Air Quality Index Data](https://vishalrshukla.github.io/WDC/WDC_AQI.html) from API provided by the Ministry of Environment and Forests, Central Pollution Control Board on Data.gov.in 
 
